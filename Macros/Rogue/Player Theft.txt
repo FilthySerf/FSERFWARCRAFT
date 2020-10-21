@@ -1,0 +1,6 @@
+/run SendChatMessage(format("has pickpocketed %dg %ds %dc from %%t!", random(10), random(99), random(99)), "EMOTE")
+
+
+---------
+
+Just a fun macro that lets you fake pickpocket players. Outputs into chat what you "stole"

@@ -1,0 +1,11 @@
+#showtooltip Misdirection
+/cast [@focus, help] [@pet, nodead, exists] Misdirection
+
+
+--------
+
+Automatically misdirects to your pet based on conditionals:
+The pet is summoned
+The pet is alive
+
+If there is no pet, it will try to misdirect to your focus target.

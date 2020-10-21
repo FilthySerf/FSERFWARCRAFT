@@ -1,0 +1,7 @@
+#showtooltip
+/cast Soulstone
+/run SendChatMessage ("Thank you for choosing the YOURNAME Life Insurance Policy(tm) Upon your untimely demise, you are allowed one resurrection. ","WHISPER",nil,GetUnitName("target",1):gsub(" ","",2))
+
+---------
+
+This notifies your soulstone target that you are using a soulstone on them. 

@@ -1,0 +1,8 @@
+/target [mod:shift] focus
+/clearfocus [mod:alt]
+/focus 
+
+
+--------
+
+Lets you set any focus target by targetting them and hitting the macro. No need to clear focus to set a new target, just select them and hit the macro again. To clear the focus target, deselect your current target and hit the macro. 

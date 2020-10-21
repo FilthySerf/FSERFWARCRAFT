@@ -1,0 +1,6 @@
+#showtooltip 
+/cast [@cursor] Heroic Leap
+
+-------
+
+Smart Casts heroic leap to your cursor location. It's much faster. 

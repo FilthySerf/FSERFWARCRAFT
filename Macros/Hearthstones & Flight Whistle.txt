@@ -1,0 +1,14 @@
+#showtooltip
+/use [nomod] Hearthstone; [mod:shift] Dalaran Hearthstone; [mod:ctrl] Garrison Hearthstone; [mod:alt] Flight Master's Whistle;
+
+----------
+
+Combines all your hearthstones and flightmaster's whistle into a single button. Unfortunately it doesn't help your bag space. 
+
+Replace the first Hearthstone with whatever toy hearthstone you want such as Eternal Traveller's Hearthstone or Astral Recall for shamans.
+
+If using astral Recall see below:
+
+#showtooltip
+/cast [nomod] Astral Recall;
+/use [mod:shift] Dalaran Hearthstone; [mod:ctrl] Garrison Hearthstone; [mod:alt] Flight Master's Whistle;

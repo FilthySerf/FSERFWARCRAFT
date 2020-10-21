@@ -1,0 +1,18 @@
+#showtooltip
+/use [combat] Brazier of Awakening;
+/cast [nomod] Resuscitate; [mod:shift] Reawaken;
+
+
+------
+
+During Combat:
+Brazier of Awakening is available to put down for a single target end of combat revive (if you have the item, if not it'll show the icon but greyed out)
+Outside of Combat:
+Single Target Revive, or Group if you hold Shift.
+
+IF YOU DO NOT HAVE BRAZIER OF AWAKENING I HAVE A DUMBED DOWN VERSION BELOW THOUGH I HIGHLY RECOMMEND GETTING THE TOY FROM TANAAN JUNGLE:
+
+-------
+
+#showtooltip
+/cast [nomod] Resuscitate; [mod:shift] Reawaken; [mod:ctrl] Brazier of Awakening;

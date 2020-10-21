@@ -1,0 +1,7 @@
+#showtooltip
+/cast [combat] Vanish;Stealth
+
+
+------
+
+Outside of combat, this macro acts as regular old stealth. Inside of combat it switches to vanish. A nice two for the price of one macro.
