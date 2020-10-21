@@ -1,0 +1,13 @@
+#showtooltip
+/cast [@mouseover,exists,nodead,nohelp][@target,exists,nodead,nohelp] Charge
+/cast [@mouseover,exists,nodead,help][@target,exists,nodead,help] Intervene
+
+This will change dynamically based on conditionals.
+
+IF a mouseover is present, it's not dead, and it's not friendly, Charge. 
+ELSE IF a target is present, it's not dead, and it's not friendly, Charge. 
+ELSE IF a mouseover is present, it's not dead, and it's friendly, Intervene. 
+ELSE IF a target is present, it's not dead, and it's friendly, Intervene.
+ELSE does nothing.
+
+This macro WILL react on the first true condition.
