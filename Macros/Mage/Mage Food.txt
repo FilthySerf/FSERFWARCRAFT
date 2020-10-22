@@ -1,0 +1,6 @@
+/cast [btn:2][mod:shift] Conjure Refreshment
+/use [btn:1] Conjured Mana Pudding
+
+-----------
+
+Right Mouse Button conjures mage food. If in a group, it'll conjure the group version. Left click eats mage food. 
