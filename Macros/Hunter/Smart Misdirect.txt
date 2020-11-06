@@ -8,4 +8,4 @@ Automatically misdirects to your pet based on conditionals:
 The pet is summoned
 The pet is alive
 
-If there is no pet, it will try to misdirect to your focus target.
+If there is no pet ir a focus target, it will try to misdirect to your focus target.
