@@ -1,0 +1,21 @@
+IMPORT STRING
+!WA:2!1rvuVnorq4ekiq5bKAeubVvksNUJhQstAcH3OoxcxBttJSZHo4UtXRTh7DPo7A2DDsB5PliHUNZpH8mpGYVau)dGveIFa3pH7haIzTtQeirEiEMDM5Bw)9nJl3R6KQbvdE9NVK5l4oIuPpSZAsQMkKxMOzcUQI8MlddvG(jF9p)BLClvQ0kc3hJpuW4AVoDhmQR9AFHioqmJ7mJLaU3T1TBqeqTmy7oxlzrrGu9HpqUX817UGKkjCYeq9dEn(QAnA3YQE76nTBu)O21TBxRrZgE1BDCRwFPxJ2h1O2rj7MQGXrahKmFhQy2LC31)l33OYF0zZnWkLZ0EjXKBa5YaWlnmC0njG8jD7pS3t7lr4gG939TgClI3jMOu03Os9GPax7GhXUE14oN4mASZOtShzNFEYNUTh7pukIKGsT)dDsG44hTwcK4Ctd2LxBWwT11DEU5PbQkwA8QyB4G633UHsaBNTZWU97BNtnvwyQxlj(x5U4EykViLVHhRKSlXxZMcJk8Vqea)AP3IYdi5K4VfjDuj)P3EfajNGa4RTjO2sxOG4WCzm79qUrr04nrd0L4DXgImQ)xSx2bRrxpS5rsrkp4VwhflM1tc)ykW9Vz47w7W6nZoqIjzcSY83ZkMykp34yO71EPATGF5uqIkXsZX9bEKM(X55)DBYFHXPJiwipBh83D4793S9eQLjinV7JOm)R4iHVtEfo(KyOWSpdpE38gyjKbGK6rbwev)kRybjONNgtLR3ZEsASMvXYWg7LzvX23i6gllf7wWySuMtbMRF2hyDRqmP8ccNnXqD8w2knrQ7DhquGJwM)Y8(zhyXfCyDGHhXSgB0xPcW5)a1CtQ5ODU1ecJ3l7mSGSZZ6NDr2GSZ9czCMI(FpEfJhkKfDTI86n7I)U(p(BCvSuYhTDvBeCT(XmfXlgcOsZ8akFTYon0ZpvPftsAoePEhJe2Jfdp85p)uZ8riXhErN8mYJPEH)nxr8y0dNK04LV8rZdeJvMa4uH5X4eIMM8z)V1UT0fyDfn21oVq5(fURlGXNs4Ci27cIcrkB4ElXGjfTY1czc9dY(EA2tFNLAH)0Ij4pP8VS8awGvFeiB)7htSjXjuYo2ZybA6RQNYcw9ysTZgmLEBWX(Ei5hYIQizCdmanPkowTD1fxvWDbC9V4BA9K4MLrJ8C6y3T7GLgLJv8DW5BzA3vHM0qvNOj7uvz38WghEC1P)5Z(Np
+
+How to Install: 
+
+Step 1)
+
+Move the Interface folder (and it's sub folder) to your World of Warcraft\_retail_ folder.
+
+Step 2)
+
+Import the above WA string into Weak Auras by clicking New Aura and then Import.
+
+Step 3) 
+
+Restart your game. This should ensure that the sound file is recognized by the game properly. 
+
+Your WA should now work and the first 45 seconds of Cyka Bih should play when a a version of Bloodlust is cast upon you.
+
+If you can't hear the audio, it's tied to your master volume. Try increasing that. 
+If that doesn't work reach out to @FilthySerf on discord.
